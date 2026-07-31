@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
