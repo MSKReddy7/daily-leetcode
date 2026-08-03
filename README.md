@@ -46,6 +46,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
@@ -60,9 +61,11 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
