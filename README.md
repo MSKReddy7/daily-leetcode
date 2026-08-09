@@ -155,4 +155,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
+| [0584-find-customer-referee](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
