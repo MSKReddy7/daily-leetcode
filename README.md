@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -58,6 +59,7 @@
 | [0136-single-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -80,8 +82,21 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
