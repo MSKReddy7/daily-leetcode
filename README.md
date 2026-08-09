@@ -151,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
