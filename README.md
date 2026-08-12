@@ -5,6 +5,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -88,6 +90,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
