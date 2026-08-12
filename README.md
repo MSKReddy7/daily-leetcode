@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -25,6 +26,7 @@
 | [1518-water-bottles](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2544-alternating-digit-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
@@ -85,6 +87,7 @@
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -145,18 +148,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +195,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
