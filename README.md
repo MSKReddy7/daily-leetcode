@@ -11,6 +11,7 @@
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -35,6 +36,7 @@
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## String
@@ -97,6 +99,7 @@
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -112,6 +115,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +162,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
