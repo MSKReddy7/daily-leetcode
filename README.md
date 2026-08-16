@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -48,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -121,6 +123,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Divide and Conquer
@@ -242,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
