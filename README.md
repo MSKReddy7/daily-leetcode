@@ -24,6 +24,7 @@
 | [0070-climbing-stairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0507-perfect-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -156,10 +157,12 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -259,4 +262,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
