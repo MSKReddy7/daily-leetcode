@@ -28,6 +28,7 @@
 | [0507-perfect-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
