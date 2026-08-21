@@ -266,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0278-first-bad-version](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -333,4 +334,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
