@@ -72,6 +72,7 @@
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -131,6 +132,7 @@
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -350,4 +352,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
