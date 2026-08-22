@@ -6,7 +6,7 @@ public:
         
         int n = nums.size();
         int sum = n*(n+1)/2;
-        int prev = -1;
+
         int csum = 0;
         int d;
         for(auto i: nums) csum+=i;
