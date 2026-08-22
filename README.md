@@ -12,6 +12,7 @@
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0575-distribute-candies](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0575-distribute-candies/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -121,6 +122,7 @@
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0575-distribute-candies](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
