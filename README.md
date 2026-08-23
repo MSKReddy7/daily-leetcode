@@ -46,6 +46,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2469-convert-the-temperature](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
@@ -81,6 +82,7 @@
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -90,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
+| [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bit Manipulation
@@ -216,6 +219,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
