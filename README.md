@@ -152,6 +152,7 @@
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
@@ -186,6 +187,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
@@ -295,6 +297,7 @@
 | [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
