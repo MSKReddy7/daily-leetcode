@@ -152,6 +152,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
