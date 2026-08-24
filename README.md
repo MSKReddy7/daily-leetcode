@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
@@ -137,6 +138,7 @@
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
@@ -283,6 +285,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
