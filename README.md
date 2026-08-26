@@ -151,6 +151,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0506-relative-ranks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -193,6 +194,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [0506-relative-ranks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -418,4 +420,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
