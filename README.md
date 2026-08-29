@@ -67,6 +67,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -179,6 +180,7 @@
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
@@ -275,6 +277,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
@@ -285,6 +288,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
