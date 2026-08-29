@@ -10,7 +10,7 @@ public:
                 int rem = n%2;
                 if(rem){
                     if (chr <= 122)
-                        curr = string(1, (char)chr) + curr;
+                        curr = (char)chr + curr;
                     else
                         curr = string("zz") + curr;
                 }
