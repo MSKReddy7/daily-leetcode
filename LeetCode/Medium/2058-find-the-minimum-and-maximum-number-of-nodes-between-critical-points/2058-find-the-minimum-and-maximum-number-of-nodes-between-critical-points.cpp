@@ -16,37 +16,37 @@ public:
         ListNode* next = curr->next;
         if(!next) return {-1,-1};
         
-
-        int secMnIdx = -1;
-        int mnIdx = -1;
-        int mn = INT_MAX;
-
         int firstCriPoiIdx = -1;
-        int mx = INT_MIN;
+        int prevCriPoiIdx = -1;
+        int currCriPoiIdx = -1;
         
+        int minDist = INT_MAX;
+        int maxDist = INT_MIN;
+
         int idx = 2;
         
         while(curr->next){
-            bool take = false;
-            take |= ((curr->val > prev->val) && (curr->val > next->val));
-            take |= ((curr->val < prev->val) && (curr->val < next->val));
-            if(take){
-                if(mnIdx == -1) firstCriPoiIdx = idx;
-                secMnIdx = mnIdx;
-                mnIdx = idx;
-                if(secMnIdx != -1 && mnIdx != -1)
-                    mn = min(mn,mnIdx-secMnIdx);
+            bool isCriPoi = false;
+            isCriPoi |= ((curr->val > prev->val) && (curr->val > next->val));
+            isCriPoi |= ((curr->val < prev->val) && (curr->val < next->val));
+
+            if(isCriPoi){
+                if(currCriPoiIdx == -1) firstCriPoiIdx = idx;
+                prevCriPoiIdx = currCriPoiIdx;
+                currCriPoiIdx = idx;
+                if(prevCriPoiIdx != -1 && currCriPoiIdx != -1)
+                    minDist = min(minDist,currCriPoiIdx-prevCriPoiIdx);
             }
             prev = curr;
             curr = next;
             next = next->next;
             idx++;
         }
-        mx = mnIdx - firstCriPoiIdx;
-        if((secMnIdx == -1 || mnIdx == -1)) return {-1,-1};
-        cout << mn;
+        maxDist = currCriPoiIdx - firstCriPoiIdx;
+        if((prevCriPoiIdx == -1 || currCriPoiIdx == -1)) return {-1,-1};
+        cout << minDist;
 
-        return {mn,mx};
+        return {minDist,maxDist};
         
     }
 };
