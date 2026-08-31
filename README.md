@@ -308,6 +308,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -435,6 +436,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Sliding Window
