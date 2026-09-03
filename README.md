@@ -81,6 +81,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
