@@ -78,6 +78,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3945-digit-frequency-score](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## String
@@ -193,6 +194,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
