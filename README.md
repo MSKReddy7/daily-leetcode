@@ -197,6 +197,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
 ## Sorting
@@ -355,6 +356,7 @@
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
