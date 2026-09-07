@@ -64,6 +64,7 @@
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -188,6 +189,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -284,6 +286,7 @@
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +298,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
+| [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
