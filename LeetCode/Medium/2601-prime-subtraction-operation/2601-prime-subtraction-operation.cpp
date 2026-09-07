@@ -21,15 +21,13 @@ public:
         int n = nums.size();
         for(int i=n-1; i>0; i--){
             if(nums[i-1]<nums[i]) continue;
-            cout << nums[i-1] << ' ' << nums[i] << "    ";
+            
             int p = 0;
             while((nums[i-1]-p) >= nums[i]) {
                 inc(p);
                 if(p>=nums[i-1]) return false;
             }
             nums[i-1] -= p;
-            cout << nums[i-1] << ' ' << nums[i] <<  endl;
-            if(nums[i-1] > nums[i]) return false;
         }
         return true;
     }
