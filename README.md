@@ -95,6 +95,7 @@
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0709-to-lower-case](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
