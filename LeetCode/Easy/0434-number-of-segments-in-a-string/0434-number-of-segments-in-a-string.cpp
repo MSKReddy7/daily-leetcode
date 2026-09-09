@@ -9,6 +9,7 @@ public:
             while(j<n && s[j] != ' ') j++;
             c++;
             while(j<n && s[j] == ' ') j++;
+
         }
         return c;
     }
