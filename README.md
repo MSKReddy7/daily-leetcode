@@ -55,6 +55,7 @@
 | [1927-sum-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -365,6 +366,7 @@
 | [0917-reverse-only-letters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
@@ -425,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
