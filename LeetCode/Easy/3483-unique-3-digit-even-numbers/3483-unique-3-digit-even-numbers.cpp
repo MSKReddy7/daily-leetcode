@@ -8,7 +8,6 @@ public:
                 if(i!=j){
                     for(int k=0; k<n; k++){
                         if(k!=i && k!=j){
-                            cout << d[i] << ' ' << d[j] << ' ' << d[k] << endl;
                             if(d[i] && ((d[k])&1) == 0)
                                 s.insert((d[i]*10 + d[j])*10 + d[k]);
                         }
