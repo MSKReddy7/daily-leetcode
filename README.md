@@ -44,6 +44,7 @@
 | [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0507-perfect-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -507,4 +508,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
