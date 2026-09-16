@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
@@ -133,6 +134,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
@@ -274,6 +276,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
