@@ -22,6 +22,7 @@
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -76,6 +77,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -206,6 +208,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
@@ -253,6 +256,7 @@
 | [0383-ransom-note](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -304,6 +308,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -318,6 +323,7 @@
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
@@ -331,6 +337,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
@@ -340,6 +347,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +355,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +432,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
+| [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
