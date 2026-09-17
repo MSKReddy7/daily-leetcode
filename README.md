@@ -150,6 +150,7 @@
 | [0342-power-of-four](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0868-binary-gap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0868-binary-gap/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
