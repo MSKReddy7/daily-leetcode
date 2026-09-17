@@ -9,13 +9,14 @@ public:
             fast = nums[nums[fast]];
         }
         while(slow != fast);
+        
+        cout << slow << ' ' << fast;
 
         int slow2 = nums[0];
         while(slow != slow2){
             slow = nums[slow];
             slow2 = nums[slow2];
         }
-        cout << slow << ' ' << fast;
         return slow;
     }
 };
