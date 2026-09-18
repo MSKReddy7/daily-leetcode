@@ -22,6 +22,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -160,6 +161,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
@@ -221,6 +223,7 @@
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3044-most-frequent-prime](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3044-most-frequent-prime/) | Medium |
