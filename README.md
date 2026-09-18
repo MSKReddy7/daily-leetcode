@@ -125,6 +125,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair/) | Easy |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | [2595-number-of-even-and-odd-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +242,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3996-even-number-of-knight-moves](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3996-even-number-of-knight-moves/) | Easy |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
