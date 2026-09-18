@@ -4,7 +4,6 @@ void generate(string& digits, int idx, unordered_map<int,string>& mp, vector<str
         return;
     }
     for(auto i: mp[digits[idx] - '0']){
-        cout << i << ' ';
         temp.push_back(i);
         generate(digits,idx+1,mp,res,temp);
         temp.pop_back();
