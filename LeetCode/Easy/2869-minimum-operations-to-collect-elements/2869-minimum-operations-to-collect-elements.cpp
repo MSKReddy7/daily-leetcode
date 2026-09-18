@@ -14,8 +14,7 @@ public:
                 } 
                 sum-=nums[i];
                 seen.insert(nums[i]);
-            } 
-            cout << i << ' ' << nums[i] << ' ' << endl;
+            }
             i--;
         }
         return n-(i+1);
