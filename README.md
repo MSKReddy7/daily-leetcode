@@ -176,6 +176,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
