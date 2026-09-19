@@ -49,6 +49,7 @@
 | [0263-ugly-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
@@ -445,6 +446,7 @@
 | [0278-first-bad-version](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2601-prime-subtraction-operation/) | Medium |
