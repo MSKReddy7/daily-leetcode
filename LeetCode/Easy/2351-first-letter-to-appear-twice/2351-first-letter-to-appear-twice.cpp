@@ -1,10 +1,10 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_set<char> seen;
+        bitset<26> seen;
         for(auto i: s){
-            if(seen.contains(i)) return i;
-            seen.insert(i);
+            if(seen.test(i-'a')) return i;
+            seen.set(i-'a');
         }
         return 0;
     }
