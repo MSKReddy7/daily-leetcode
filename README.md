@@ -129,6 +129,7 @@
 | [2942-find-words-containing-character](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
@@ -280,6 +281,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3024-type-of-triangle/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Counting
@@ -521,6 +523,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
