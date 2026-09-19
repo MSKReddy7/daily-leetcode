@@ -8,7 +8,7 @@ public:
         while(i<j){
             int lb = n>>i & 1;
             int rb = n>>j & 1;
-            if(lb!=rb) count++;
+            count += lb^rb;
             i++;j--;
         }
         return count*2;
