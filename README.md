@@ -97,6 +97,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -132,6 +133,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MSKReddy7/daily-leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair/) | Easy |
@@ -179,6 +181,7 @@
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3827-count-monobit-integers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -441,6 +444,7 @@
 | [2396-strictly-palindromic-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/2562-find-the-array-concatenation-value/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Database
