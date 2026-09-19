@@ -1,8 +1,12 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        bitset<501> parity = 0;
-        for(auto i: nums) parity.flip(i);
-        return parity.none();
+        unordered_map<int,int> mp;
+        for(auto i: nums)
+            mp[i] = 1-mp[i];
+
+        for(auto it: mp)
+            if(it.second) return false;
+        return true;
     }
 };
