@@ -180,6 +180,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3827-count-monobit-integers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/4036-lexicographically-largest-string-after-pair-transformations/) | Medium |
 ## Simulation
