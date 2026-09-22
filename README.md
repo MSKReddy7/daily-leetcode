@@ -458,6 +458,7 @@
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [1148-article-views-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
