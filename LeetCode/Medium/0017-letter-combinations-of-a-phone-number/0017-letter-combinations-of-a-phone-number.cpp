@@ -25,5 +25,4 @@ public:
         generate(digits,0,mp,res,temp);
         return res;
     }
-
 };
