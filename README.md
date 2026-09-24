@@ -96,6 +96,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3516-find-closest-person/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -271,6 +272,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
