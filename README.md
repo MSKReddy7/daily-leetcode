@@ -111,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -332,6 +333,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -342,6 +344,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
@@ -612,4 +615,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
