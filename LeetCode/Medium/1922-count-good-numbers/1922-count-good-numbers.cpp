@@ -10,6 +10,6 @@ long long getPow(ll a, ll b){
 class Solution {
 public:
     int countGoodNumbers(long long n) {
-        return getPow(5,(n+1)/2)%mod * getPow(4,n/2)%mod % mod;
+        return (getPow(5,(n+1)/2)%mod) * (getPow(4,n/2)%mod) % mod;
     }
 };
