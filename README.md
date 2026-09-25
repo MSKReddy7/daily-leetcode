@@ -5,6 +5,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -112,6 +113,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -600,6 +602,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MSKReddy7/leetcode/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
